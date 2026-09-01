@@ -1,4 +1,4 @@
-package org.yltech.logindb.models;
+package org.example.logindb.models;
 
 public class User {
     private String username;
