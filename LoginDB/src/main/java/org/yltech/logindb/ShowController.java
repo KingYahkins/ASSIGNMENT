@@ -1,4 +1,4 @@
-package org.yltech.logindb;
+package org.example.logindb;
 
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
