@@ -1,4 +1,4 @@
-package org.yltech.logindb.models;
+package org.example.logindb.models;
 
 public class Student {
     private String firstname,lastname,course,index;
