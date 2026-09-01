@@ -1,4 +1,4 @@
-package org.yltech.logindb.db;
+package org.example.logindb.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
